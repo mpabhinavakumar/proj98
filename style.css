@@ -1,0 +1,55 @@
+body{
+
+    background: aqua;
+}
+
+h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+h4{
+
+    color:blue;
+
+}
+
+#camera{
+
+    width:500px;
+    height:400px;
+    border:1px solid lightslategray;
+}
+
+img{
+
+    width:37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 grey;
+}
+
+img:hover{
+
+    border-radius: 140px;
+
+}
+
+.column{
+
+    display:inline;
+    padding: 10px;
+}
+
+.copy_right_footer{
+
+    position:fixed;
+    color:bisque;
+    bottom:0;
+    width:100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
